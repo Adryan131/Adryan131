@@ -1,8 +1,12 @@
 ### Boas Vindas Ao Meu Perfil
 ° Meu Nome é Adryan Henrique.
+
 ° Estou Estudando Na Alura.
+
 ° Estou Me Desenvolvendo Na Linguagem JavaScript.
+
 °Ultilizo Esse Espaço Para Minha Organização e Compartilhamento Dos Meus Projetos Desenvolvidos.
+
 ### Você Pode Entrar Em Contato Comigo
 00001131212344sp@al.educacao.sp.gov.br
 <!--
